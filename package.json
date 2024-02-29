@@ -1,8 +1,7 @@
 {
-  "name": "react-wedding-rsvp",
+  "name": "rsvp-system-pinnacle",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://mmenavas.github.io/rsvp-management",
   "dependencies": {
     "carbon-components": "^9.1.20",
     "carbon-components-react": "^6.12.1",
@@ -14,7 +13,6 @@
   },
   "scripts": {
     "predeploy": "npm run build",
-    "deploy": "gh-pages -d build",
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test --env=jsdom",
