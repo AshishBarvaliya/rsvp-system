@@ -1,8 +1,6 @@
 .new-guest__form {
-  max-width: 640px;
   margin: 0 auto;
 } 
 .new-guest__name,
 .new-guest__submit {
-  margin-bottom:10px;
 }
